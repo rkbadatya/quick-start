@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: io.micronaut
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, asciidoctor, assertj, cache-ehcache, data, data-jpa, dekorate-jaeger, dekorate-kubernetes, dekorate-prometheus, github-workflow-docker-registry, github-workflow-graal-docker-registry, graalvm, h2, hibernate-jpa, hibernate-validator, http-client, jax-rs, jdbc-hikari, jib, jmx, junit, kotlin, kotlin-application, kotlin-extension-functions, kubernetes, log4j2, management, maven, micrometer, micrometer-prometheus, mockito, netty-server, openapi, properties, readme, shade, spring, spring-boot, spring-data-jpa, spring-web, views-thymeleaf]
